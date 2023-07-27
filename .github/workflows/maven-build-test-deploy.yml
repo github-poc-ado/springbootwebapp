@@ -1,4 +1,4 @@
-name: Test & Build Using Java & Maven, publish test results
+name: Test & Build Using Java & Maven, publish test result
 on: 
  push:
    branches: 
